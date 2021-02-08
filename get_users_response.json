@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"first_name": "jon",
+		"last_name": "MD k",
+		"age": 40
+		"Adress": "Fairfax, VA"
+	},
+	{
+		"id": 2,
+		"first_name": "Sheikh",
+		"last_name": "Uddin",
+		"age": 30
+		"Adress": "New york, NY"
+	},
+	{
+		"id": 3,
+		"first_name": "Neelu",
+		"last_name": "Shah ",
+		"age": 32
+		"Adress": "Palo Alto CA"
+	}
+] 
